@@ -492,7 +492,8 @@
     "compatibility": 0,
     "directory": "animal-crossing-new-leaf-welcome-amiibo",
     "releases": [
-      {"id": "0004000000198E00"}
+      {"id": "0004000000198E00"},
+      {"id": "0004000000198F00"}
     ],
     "title": "Animal Crossing: New Leaf Welcome amiibo"
   },
@@ -620,7 +621,8 @@
     "compatibility": 99,
     "directory": "asterix-the-mansions-of-the-gods",
     "releases": [
-      {"id": "0004000000150C00"}
+      {"id": "0004000000150C00"},
+      {"id": "000400000014F600"}
     ],
     "title": "Asterix The Mansions of the Gods"
   },
@@ -2187,7 +2189,7 @@
     "title": "Disney Infinity"
   },
   {
-    "compatibility": 3,
+    "compatibility": 1,
     "directory": "disney-magical-world",
     "releases": [
       {"id": "00040000000EA900"}
@@ -2198,7 +2200,8 @@
     "compatibility": 1,
     "directory": "disney-magical-world-2",
     "releases": [
-      {"id": "000400000018AE00"}
+      {"id": "000400000018AE00"},
+      {"id": "000400000018AF00"}
     ],
     "title": "Disney Magical World 2"
   },
@@ -2830,7 +2833,8 @@
     "compatibility": 99,
     "directory": "farming-simulator-18",
     "releases": [
-      {"id": "00040000001B7900"}
+      {"id": "00040000001B7900"},
+      {"id": "00040000001B7500"}
     ],
     "title": "Farming Simulator 18"
   },
@@ -3270,7 +3274,8 @@
     "compatibility": 0,
     "directory": "goosebumps-the-game",
     "releases": [
-      {"id": "0004000000160200"}
+      {"id": "0004000000160200"},
+      {"id": "000400000018B600"}
     ],
     "title": "Goosebumps: The Game"
   },
@@ -3646,7 +3651,8 @@
     "compatibility": 3,
     "directory": "hometown-story",
     "releases": [
-      {"id": "00040000000F9900"}
+      {"id": "00040000000F9900"},
+      {"id": "0004000000121000"}
     ],
     "title": "Hometown Story"
   },
@@ -3662,7 +3668,8 @@
     "compatibility": 99,
     "directory": "hotel-transylvania",
     "releases": [
-      {"id": "00040000000A2600"}
+      {"id": "00040000000A2600"},
+      {"id": "00040000000BF600"}
     ],
     "title": "Hotel Transylvania"
   },
@@ -3870,7 +3877,8 @@
     "compatibility": 0,
     "directory": "james-noirs-hollywood-crimes",
     "releases": [
-      {"id": "0004000000036100"}
+      {"id": "0004000000036100"},
+      {"id": "0004000000037B00"}
     ],
     "title": "James Noir's Hollywood Crimes"
   },
@@ -4796,6 +4804,14 @@
     "title": "Mario & Luigi: Bowser’s Inside  Story + Bowser Jr.’s Journey"
   },
   {
+    "compatibility": 99,
+    "directory": "mario-and-sonic-at-the-rio-2016-olympic-games",
+    "releases": [
+      {"id": "000400000017E300"}
+    ],
+    "title": "Mario & Sonic at the Rio 2016 Olympic Games"
+  },
+  {
     "compatibility": 3,
     "directory": "mario-bros",
     "releases": [
@@ -5687,7 +5703,8 @@
     "compatibility": 99,
     "directory": "ncis-3d-based-on-the-tv-series",
     "releases": [
-      {"id": "0004000000047D00"}
+      {"id": "0004000000047D00"},
+      {"id": "000400000004F600"}
     ],
     "title": "NCIS 3D BASED ON THE TV SERIES"
   },
@@ -6885,7 +6902,8 @@
     "compatibility": 1,
     "directory": "professor-layton-vs-phoenix-wright-ace-attorney",
     "releases": [
-      {"id": "0004000000100700"}
+      {"id": "0004000000100700"},
+      {"id": "0004000000100600"}
     ],
     "title": "Professor Layton vs. Phoenix Wright: Ace Attorney"
   },
@@ -9455,6 +9473,14 @@
       {"id": "0004000000117B00"}
     ],
     "title": "Winter Sports - Feel the Spirit"
+  },
+  {
+    "compatibility": 99,
+    "directory": "wipeout-2",
+    "releases": [
+      {"id": "000400000004DD00"}
+    ],
+    "title": "Wipeout 2"
   },
   {
     "compatibility": 0,
