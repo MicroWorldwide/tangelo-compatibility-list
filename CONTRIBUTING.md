@@ -7,7 +7,7 @@ If a report exists for a game you are looking to report, please instead corrobor
 Additionally, please do not create a report for a game with the same compatibility rating that it already has. These reports are redundant and will be closed without further communication.
 
 ## Starting the Report
-To begin creating a report, [open a new Compatibility Report issue form](https://github.com/azahar-emu/compatibility-list/issues/new?assignees=&labels=&projects=&template=compat_report.yml) on the Issues page of this repository
+To begin creating a report, [open a new Compatibility Report issue form](https://github.com/MicroWorldwide/tangelo-compatibility-list/issues/new?assignees=&labels=&projects=&template=compat_report.yml) on the Issues page of this repository
 
 Before contributing a compatibility report, a few criteria must be met which are listed as checkboxes at the top of this form. Please read and ensure that all of these have been met before continuing.
 
