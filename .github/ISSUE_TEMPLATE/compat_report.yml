@@ -42,8 +42,8 @@ body:
       required: true
   - type: input
     attributes:
-      label: Azahar Version
-      description: The Azahar version which was used when playing through the game. If multiple versions were used, list them all.
+      label: Tangelo Version
+      description: The Tangelo version which was used when playing through the game. If multiple versions were used, list them all.
       placeholder: "1234"
     validations:
       required: true
